@@ -1,6 +1,6 @@
 # Customize the React ListView Using Templates
 
-A quick-start project that helps you customize Syncfusion React List view items with icons or images using the template property with built-in classes like e-list-template, e-list-wrapper, e-list-avatar, and e-list-multi-line. The project contains code snippets to show the list header and customize it using the headerTemplate property.  It also contains codes to enable the group header and customize the group title using the groupTemplate property. 
+A quick-start project that helps you customize Syncfusion React List view items with icons or images using the template property with built-in classes like e-list-template, e-list-wrapper, e-list-avatar, and e-list-multi-line. The project contains code snippets to show the list header and customize it using the headerTemplate property. It also contains code to enable the group header and customize the group title using the groupTemplate property. 
 
 Documentation: https://ej2.syncfusion.com/react/documentation/listview/customizing-templates/
 
